@@ -47,7 +47,7 @@ After investigating and understandng the nature of the correlations bewteen the 
   <img src="https://raw.githubusercontent.com/Joffreybvn/wine-quality-analysis/master/visualisations/wine.svg">
 </p>
 
-A good wine is a subtle mix bewteen *Sulphates* and *Chlorides* on one hand, and *Sugar* and *Sulfur dioxide* on the other hand. Ihn orde to to balance the *Citric acid* with the *Fixed acidity*, and therefore get enough *alcohol* and *volatile acidity* in your wine.
+A good wine is a subtle mix bewteen *Sulphates* and *Chlorides* on one hand, and *Sugar* and *Sulfur dioxide* on the other hand. In order to to balance the *Citric acid* with the *Fixed acidity*, and therefore get enough *alcohol* and *volatile acidity* in your wine, which are the main influence of the wine's quality.
 
 ## Explanations:
 
