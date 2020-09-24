@@ -35,7 +35,7 @@ This heatmap shows the correlations bewteen variables, and was **used to investi
 Some correlations are more interesting to investigate than others.
 
 1. Investigate the 4 strongest correlations bewteen **quality** and *others variables**.
-2. Investigate the strongest correlations **btween these 4 variables**.
+2. Investigate the strongest correlations **between these 4 variables**.
 3. Gradually investigate the strongest correlations between theses 4 variables, and **the rest of the variables** (the presumably "*less*" important ones).
 
 The complete investigation with the observations, can be found on [Google collab](https://colab.research.google.com/drive/1VdehLoCJraz0GHCz8B6EmgoCrP33TVoc?usp=sharing), or directly in the [notebook of this repo](https://github.com/Joffreybvn/wine-quality-analysis/blob/master/wine_quality_analysis.ipynb).
@@ -48,11 +48,11 @@ After investigating and understandng the nature of the correlations bewteen the 
   <img src="https://raw.githubusercontent.com/Joffreybvn/wine-quality-analysis/master/visualisations/wine.svg">
 </p>
 
-A good wine is a subtle mix bewteen *Sulphates* and *Chlorides* on one hand, and *Sugar* and *Sulfur dioxide* on the other hand. In order to to balance the *Citric acid* with the *Fixed acidity*, and therefore get enough *alcohol* and *volatile acidity* in your wine, which are the main influence of the wine's quality.
+A good wine is a subtle mix between *Sulphates* and *Chlorides* on one hand, and *Sugar* and *Sulfur dioxide* on the other hand. In order to to balance the *Citric acid* with the *Fixed acidity*, and therefore get enough *alcohol* and *volatile acidity* in your wine, which are the main influence of the wine's quality.
 
 ## Explanations:
 
-A wine is good when it's **quality** is high. To have a higher quality, the wine needs:
+A wine is good when its **quality** is high. To have a higher quality, the wine needs:
 - A higher *alcohol* concentration.
 - A smaller *volatile acidity* concentration.
 
