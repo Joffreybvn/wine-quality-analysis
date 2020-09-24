@@ -39,10 +39,26 @@ Some correlations are more interesting to investigate than others.
 
 The complete investigation with the observations, can be found on [Google collab](https://colab.research.google.com/drive/1VdehLoCJraz0GHCz8B6EmgoCrP33TVoc?usp=sharing), or directly in the [notebook of this repo]().
 
-### Conclusions:
+## Conclusion:
 
 After investigating and understandng the nature of the correlations bewteen the *quality* and the *others variables*, I came to the following conclusion:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Joffreybvn/wine-quality-analysis/master/visualisations/wine.svg">
 </p>
+
+### Explanation:
+
+A wine is good when it's **quality** is high. To have a higher quality, the wine needs:
+- A higher *alcohol* concentration.
+- A smaller *volatile acidity* concentration.
+
+**A good wine is a wine with lot of alcohol and few volatile acidity.**
+
+#### How to increase alcohol concentration ?
+The *alcohol* concentration can be increased thank to two variables:
+1. When the wine has **less *Sulfur dioxide* **. 
+2. When the wine has **a smaller *density* **, wich is directly influenced by the *residual sugar*.<br>
+<img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collecting-data/master/docs/arrow.svg" width="12"> Less *residual sugar* means less density, wich means *more alcohol* !
+
+But the *density* is also **highly influenced by the *Fixed acidity* **: **Lesser *fixed acidity* is better to have more alcohol** !
