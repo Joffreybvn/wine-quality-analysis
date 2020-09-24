@@ -1,5 +1,5 @@
 # Wine Quality -  Analysis
-
+Author: [Joffrey Bienvenu](https://github.com/Joffreybvn)
 Analysis and interpretation of a [red wine quality's dataframe](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009).
 
 ### Objectives:
