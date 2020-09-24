@@ -11,8 +11,8 @@ Analysis and interpretation of a [red wine quality's dataframe](https://www.kagg
 1. Determine **the criteria that influence the quality** of red wine by analysing the dataframe.
 2. Find out **which are the best and worst** wines.
 
-# Dataframe analysis
-The complete analysis and its details is avaibale on [Google collab](https://colab.research.google.com/drive/1VdehLoCJraz0GHCz8B6EmgoCrP33TVoc?usp=sharing), or directly in the [notebook of this repo]().
+# Data analysis
+The complete analysis and its details is avaibale on [Google collab](https://colab.research.google.com/drive/1VdehLoCJraz0GHCz8B6EmgoCrP33TVoc?usp=sharing), or directly in the [notebook of this repo](https://github.com/Joffreybvn/wine-quality-analysis/blob/master/wine_quality_analysis.ipynb).
 
 ## The target: the Quality
 
@@ -37,7 +37,7 @@ Some correlations are more interesting to investigate than others.
 2. Investigate the strongest correlations **btween these 4 variables**.
 3. Gradually investigate the strongest correlations between theses 4 variables, and **the rest of the variables** (the presumably "*less*" important ones).
 
-The complete investigation with the observations, can be found on [Google collab](https://colab.research.google.com/drive/1VdehLoCJraz0GHCz8B6EmgoCrP33TVoc?usp=sharing), or directly in the [notebook of this repo]().
+The complete investigation with the observations, can be found on [Google collab](https://colab.research.google.com/drive/1VdehLoCJraz0GHCz8B6EmgoCrP33TVoc?usp=sharing), or directly in the [notebook of this repo](https://github.com/Joffreybvn/wine-quality-analysis/blob/master/wine_quality_analysis.ipynb).
 
 ## Conclusion:
 
@@ -74,3 +74,7 @@ The *citric acid* concentration can be increased thanks to a higher *Sulphates* 
 As we saw earlier, more *citric acid* means indirectly having a better wine. And lesser *fixed acidity* means indirectly having more alcohol, and so a better wine.
 
 However, **increasing the *citric acid* concentration makes the *fixed acidity* concentration increasing too** ! Therefore, you can't blindly increase the *citric acid* because it will makes the wine having less *alcohol*. Or, your must compensate by reducing the *residual sugar* ans the *sulfur dioxide*. 
+
+# Data interpretation: Is my wine good ?
+
+To challenge the conclusion of the analysis, the top 5 best and worst wine can be found on [Google collab](https://colab.research.google.com/drive/1VdehLoCJraz0GHCz8B6EmgoCrP33TVoc?usp=sharing), or directly in the [notebook of this repo](https://github.com/Joffreybvn/wine-quality-analysis/blob/master/wine_quality_analysis.ipynb).
