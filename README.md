@@ -57,8 +57,8 @@ A wine is good when it's **quality** is high. To have a higher quality, the wine
 
 #### How to increase alcohol concentration ?
 The *alcohol* concentration can be increased thank to two variables:
-1. When the wine has **less *Sulfur dioxide* **. 
-2. When the wine has **a smaller *density* **, wich is directly influenced by the *residual sugar*.<br>
+1. When the wine has **less *Sulfur dioxide***. 
+2. When the wine has **a smaller *density***, wich is directly influenced by the *residual sugar*.<br>
 <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collecting-data/master/docs/arrow.svg" width="12"> Less *residual sugar* means less density, wich means *more alcohol* !
 
-But the *density* is also **highly influenced by the *Fixed acidity* **: **Lesser *fixed acidity* is better to have more alcohol** !
+But the *density* is also **highly influenced by the *Fixed acidity***: **Lesser *fixed acidity* is better to have more alcohol** !
