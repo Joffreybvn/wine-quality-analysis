@@ -64,7 +64,7 @@ The *alcohol* concentration can be increased thank to two variables:
 2. When the wine has **a smaller *density***, wich is directly influenced by the *residual sugar*.<br>
 <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collecting-data/master/docs/arrow.svg" width="12"> Less *residual sugar* means less density, wich means *more alcohol* !
 
-But the *density* is also **highly influenced by the *Fixed acidity***: **Lesser *fixed acidity* is better to have more alcohol** ! We'll see later how *fixed acidity** interact with the other variables.
+But the *density* is also **highly influenced by the *Fixed acidity***: **Less *fixed acidity* is better to have more alcohol** ! We'll see later how *fixed acidity** interact with the other variables.
 
 ### How to decrease the *volatile acidity* ?
 The *volatile acidity* is mainly and directly influenced by **the *Citric acid* concentration**: More *citric acid* means less *volatile acidity*, which means a better wine.
@@ -72,7 +72,7 @@ The *volatile acidity* is mainly and directly influenced by **the *Citric acid* 
 The *citric acid* concentration can be increased thanks to a higher *Sulphates* concentration, and a higher *Chlorides** concentration. 
 
 ### The *Citric acid* & *Fixed acid* problem:
-As we saw earlier, more *citric acid* means indirectly having a better wine. And lesser *fixed acidity* means indirectly having more alcohol, and so a better wine.
+As we saw earlier, more *citric acid* means indirectly having a better wine. And less *fixed acidity* means indirectly having more alcohol, and so a better wine.
 
 However, **increasing the *citric acid* concentration makes the *fixed acidity* concentration increasing too** ! Therefore, you can't blindly increase the *citric acid* because it will makes the wine having less *alcohol*. Or, your must compensate by reducing the *residual sugar* ans the *sulfur dioxide*. 
 
